@@ -12,7 +12,7 @@ Throughout the data, you will see more added columns for additional analysis suc
 -	Louise was inspired by 5 players at Edinburgh Festival Fringe and she wanted to know how they were funded. Using VLOOKUP to find the specific (Edinburgh Research) goals and pledged amounts. 
 -	Analysis by country, most successful outcome of the parent and subcategory of theatre and play.  
 -	To deepen our analysis for Louise. We used central tendencies to provided unbiased view of the data and make conclusions. This has helped her figure out the outcomes based on the goals and pledged amounts. She can get a clear picture. Also calculated measures of spread including range, variance, standard deviation, and quartiles. 
--	Outlier chart to find out the extreme points of data in our analysis. Loise was interested in GB theater market, especially musicals. We used box plots to show her the amounts of information about a distribution in a small amount of space with her estimated future budget. 
+-	Outlier chart to find out the extreme points of data in our analysis. Louise was interested in GB theater market, especially musicals. We used box plots to show her the amounts of information about a distribution in a small amount of space with her estimated future budget. 
 -	Analysing the theatre outcomes vs. launch using Pivot table filtered to “theater” as parent category. 
 -	Analysing the outcomes based on goals using goal-based data and “plays”.  
 
