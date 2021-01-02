@@ -28,14 +28,14 @@ To provide the proper analysis to Louise, we provided the theater outcome vs. La
 Visualized the relationship, we created a line chart. 
 We can see that the highest success of this category was in May. This gives Louise idea as to why this category was most successful and in what month.
 
-![Theater_Outcomes_vs_Launch.png] (path/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png] (path/to/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
  
 
 ### **Analysis of Outcomes Based on Goals**
 We performed another analysis on outcomes based on goals. In this analysis we used group-based goal amount and used Count If function to populate the outcomes by filtering the outcome column, goal column and choosing subcategory “plays”. Visualized the relationship, we created a line chart. 
 Mainly outcomes that were successful in this subcategory was with the goal less than 5000 or between 35000 to 45000. 
 
-![Outcomes_vs_Goals.png] (path/kickstarter-analysis/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png] (path/to/kickstarter-analysis/Outcomes_vs_Goals.png)
 
 
 ### **Challenges and Difficulties Encountered**
