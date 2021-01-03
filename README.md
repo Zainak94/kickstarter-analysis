@@ -16,8 +16,8 @@ Throughout the data, you will see more added columns for additional analysis suc
 The purpose of this project was to help Louise analyse the data of crowdfunding. How different campaigns fared in relation to their launch date and their funding goals in relation with their outcome. 
 
 ## **Analysis and Challenges**
-Overall analysis was made by combing through the data. The most successful category was theatre/play. We were able to find out peak months in which this category was successful as well. Now we know the goals range of the funding and the most popular month where there will be higher changes of this campaign to be successful. 
-There were many challenges throughout the analysis. First, calculating the average and it provided the answer with an error. Using the If function and round function nesting it in helped solved the issue. Second, using the count If function and round function nesting in to provide us the correct answer. 
+Overall analysis was made by combing through the data. The most successful category was theatre/play. We were able to find out peak months in which this category was successful. By using the goal range of the funding, we were able to analyse the range of funding amount which made this campaign more successful which is explained later in the analysis. 
+There were many challenges throughout the analysis. First, calculating the average and it provided the answer with an error. Used the If function and round function nesting in it helped solved the issue. Second, I came across some challenges using the count If function, it was not providing me with the correct answer for the analysis. I had to review my function few times to find out the mistake.  
 
 ### **Analysis of Outcomes Based on Launch Date**
 To provide the proper analysis to Louise, we provided the theater outcome vs. Launch dates by using Pivot table. Filtered Parent category by "theatre" and years and in correlation to their outcomes only showing “successful”, “failed” and “cancelled”. 
@@ -28,14 +28,14 @@ We can see that the highest success of this category was in May. This gives Loui
  
 
 ### **Analysis of Outcomes Based on Goals**
-Louise knew that the category was most successful in May. We performed another analysis on outcomes based on goals. In this analysis we used group-based goal amount of funding and used Count If function to provide us number of successful, failed and cancelled outcomes. Then used the Sum function to provide the total number of projects to find out the percentage of outcomes. Visualized the relationship, we created a line chart. 
-Mainly outcomes that were successful in this subcategory was with the goal less than 5000 or between 35000 to 45000. Now Loiuse knows the goal funding amount that made this category successful. 
+Louise knew that the category was most successful in May. We performed another analysis on outcomes based on goals. In this analysis we used group-based goal amount of funding and used Count If function to provide us number of successful, failed and cancelled outcomes. Then used the Sum function to provide the total number of projects to find out the percentage of the outcomes. Visualized the relationship, we created a line chart to show the trend. 
+Mainly outcomes that were successful in this subcategory was with the goal less than 5000 or between 35000 to 45000. Now Loiuse knows the goal funding range amount that made this category successful. 
 
 ![Outcomes_vs_Goals](https://github.com/Zainak94/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 
 ### **Challenges and Difficulties Encountered**
-The main challenge was to calculate the outcome based on goal based. The Count If function. The only mistake I was making is in criteria section, instead of plays, I was typing play which was giving me an error. After careful analysis of the formula, I had corrected my mistake. A single letter mistake can skew your data.  
+The main challenge was to calculate the outcome based on goal based. The Count If function. The only mistake I was making is in criteria section, instead of typing "plays", I was typing "play" which was giving me an error. After careful analysis of the formula, I had corrected my mistake. A single letter mistake can skew your data.  
 
 
 ## **Results**
